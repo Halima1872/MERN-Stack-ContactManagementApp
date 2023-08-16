@@ -1,0 +1,62 @@
+.card{
+    font-size: large;
+    width: 500px;
+    
+}
+.contact-card{
+    padding: 0px;
+    
+}
+
+.allcards{
+    text-align: left;
+    width: 600px;
+    
+}
+.card-body{
+    text-align: left;
+}
+.card-footer{
+    text-align: center;
+}
+
+.this{
+    margin-left: 70px;
+    margin-right: 0px;
+    align-items: flex-end;
+    
+}
+.card{
+    padding: 0px;
+    width: 100%;
+    
+
+}   
+.maindiv{
+    height: 100%;
+    width: 100%;
+    
+   
+    
+}
+.mycard{
+    margin-top: 50px;
+    margin-left: 450px;
+    font-size: 100px;
+    width: 100%;
+
+}
+.thisdiv{
+    margin-top: 50px;
+    margin-left: 500px;
+    font-size: 30px;
+    width: 500px;
+    
+    text-align: left;
+    
+}
+.thisis{
+    text-align: center;
+}
+
+
